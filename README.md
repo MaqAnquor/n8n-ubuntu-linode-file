@@ -29,8 +29,8 @@ I have create a comprehensive shell script to install n8n on Ubuntu 22.04 for Li
 
 1. **Save the script:**
    ```bash
-   curl -o install_n8n.sh [https://github.com/MaqAnquor/n8n-ubuntu-linode-file/blob/34c3083f3e7ae3c5e05e9fe2c427514b606650e8/install_n8n.sh](https://raw.githubusercontent.com/MaqAnquor/n8n-ubuntu-linode-file/refs/heads/main/install_n8n.sh)
-   # or copy-paste the content into a file
+   curl -o install_n8n.sh https://raw.githubusercontent.com/MaqAnquor/n8n-ubuntu-linode-file/refs/heads/main/install_n8n.sh
+   
    ```
 
 2. **Make it executable:**
